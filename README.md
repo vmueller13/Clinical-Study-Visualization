@@ -20,3 +20,5 @@ Lastly, I created a line plot to show the tumor volume over time for a single mo
 ![Line Plot](Line_Plot.png)
 ![Scatter Plot](Scatter_Plot.png)
 ![Linear Regression](Linear_Regression.png)
+
+**For this challenge, I worked with bootcamp members Kimberly Reitema and Saroja Shrestha.
