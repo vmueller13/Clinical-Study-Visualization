@@ -3,4 +3,4 @@ In this challenge, I first started with mouse data and the study results in two 
 
 
 ![Table 1](summary_df.jpg)
-<img src=“https://github.com/vmueller13/matplotlib_challenge/blob/main/summary_df.jpg?raw=true” width=“200">
+![Table 1](./Images/Table 1.png)
