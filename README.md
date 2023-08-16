@@ -1,4 +1,4 @@
-# Module 5 Challenge: Matplotlib Data Visualization
+# Matplotlib Data Visualization
 <ins>Project Overview</ins>
 ------
 
